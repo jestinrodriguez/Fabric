@@ -3,7 +3,7 @@
 
 ### 1. Importing MySQL dump files
       1. Open MySQL Workbench.
-      download here: https://dev.mysql.com/downloads/workbench/
+      download here: https://dev.mysql.com/downloads/workbench/ (then set it up)
       2. Create a connection then update db connection values in index.js server file (USE YOUR OWN VALUES)
       3. Connect to the MySQL using the created connection
       4. Create a 'recordsdatabase' schema
