@@ -5,9 +5,11 @@
       1. Open MySQL Workbench.
       download here: https://dev.mysql.com/downloads/workbench/
       2. Create a connection then update db connection values in index.js server file (USE YOUR OWN VALUES)
-      3. From the menu in MYSQL workbench, click Server then choose Data Import
-      4. Look for the database folder that includes (recordsdatabase_records.sql and recordsdatabase_posters.sql)
-      5. Then click Start Import
+      3. Connect to the MySQL using the created connection
+      4. Create a 'recordsdatabase' schema
+      5. From the Menu Bar in MYSQL workbench, click Server then choose Data Import
+      6. Look for the database folder that includes (recordsdatabase_records.sql and recordsdatabase_posters.sql)
+      7. Then click Start Import
 
 
 ### 3. How to import data using MySQL workbench
