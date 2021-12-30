@@ -1,4 +1,4 @@
-#MYSQL
+MYSQL
 
 ### Update values in mySQL db connection
 
