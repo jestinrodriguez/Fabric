@@ -1,0 +1,29 @@
+{
+  "Search": [
+    {
+      "Title": "The Matrix",
+      "Year": "1999",
+      "imdbID": "tt0133093",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg"
+    },
+
+    {
+      "Title": "The Matrix",
+      "Year": "1999",
+      "imdbID": "tt0133093",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg"
+    },
+
+    {
+      "Title": "The Matrix",
+      "Year": "1999",
+      "imdbID": "tt0133093",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg"
+    }
+  ],
+  "totalResults": "128",
+  "Response": "True"
+}
