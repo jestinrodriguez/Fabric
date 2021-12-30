@@ -8,7 +8,7 @@
       3. Connect to the MySQL using the created connection
       4. Create a 'recordsdatabase' schema
       5. From the Menu Bar in MYSQL workbench, click Server then choose Data Import
-      6. Look for the database folder that includes (recordsdatabase_records.sql and recordsdatabase_posters.sql)
+      6. Look for the cloned 'MySQL-DB' folder that includes (recordsdatabase_records.sql and recordsdatabase_posters.sql)
       7. Then click Start Import
 
 
